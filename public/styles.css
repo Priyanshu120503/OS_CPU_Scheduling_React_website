@@ -1,0 +1,66 @@
+html {
+  background-color: #86E5FF;
+}
+
+body {
+  margin: 20px;
+  text-align: center;
+}
+
+.App {
+  background-color: #86E5FF;
+}
+
+.hr {
+  border-style: dotted;
+  border-color: #0081C9;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-width: 5px;
+}
+
+.analysis {
+  color: #0081C9;
+}
+/* .scheduleOptions {
+  font-size: 30px;
+  font-weight: 20;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.scheduleOptions option {
+  font-size: 20px;
+  font-weight: 10;
+} */
+
+.timeCell {
+  display: inline-block;
+}
+
+.numberInput {
+  width: 50px;
+}
+
+.textInput {
+  width: 100px;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 10px 20px;
+}
+
+.inputArea {
+  margin: 20px 23%;
+}
+
+.inputTable {
+  display: inline-block;
+}
+
+#tSlice {
+  width: 30px;
+}
