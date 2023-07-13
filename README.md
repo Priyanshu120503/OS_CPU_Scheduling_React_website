@@ -2,21 +2,22 @@
 A simple React app analyising CPU Scheduling techniques
 
 ### Start Screen
-![Start](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/a3b60a34-0183-4190-8a58-eba1a5fe2775)
+![start](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/568bb41a-2b5d-4fee-8351-ce2e228b2e90)
 
 ### Adding processes in the table
-![Add_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/22855070-824d-4b34-8eef-d1332db2549d)
-![Add_2](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/6df59732-5ddf-4526-ab1b-4972fd4995a6)
-![final_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/963f71c3-7f23-4113-a954-f2c49e7c6ef9)
+![Add_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/a3fc56b5-d2fd-4a91-86dc-af7fe8dd2aa5)
+![Add_2](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/570f8e22-46e9-4d21-9c0d-0cb575f9a920)
+![Final_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/dea067a1-1616-4720-ae36-9f11ef9177ec)
 
 ### After clicking 'Done', we get the analysis
-![Analysis](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/ce9e3c5b-d2f7-4df0-af1d-df1a0d8e96c6)
+![Analysis_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/c0b0baae-fc6d-4937-82b6-9eb75c36b6fb)
 
 ### Another Example (Round-Robin Scheduling)
-![rr_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/9a99f35b-bfc0-45c3-a6e7-2492309eddfe)
+![rr_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/3e97c973-dda5-457c-88ab-896cd1110cec)
 
 #### Adding the entries
-![rr_2](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/728430ca-cea4-47df-aa81-3938cadd709c)
+![rr_2](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/a9648a81-df1a-46fd-a8bb-a0c12cb51a17)
 
 #### Final Analysis
-![rr_3](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/8d3f66ba-6940-4da5-a1c4-254a4904b274)
+![rr_3](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/18a19a1b-68ac-4d3e-8103-7851868f9a08)
+
