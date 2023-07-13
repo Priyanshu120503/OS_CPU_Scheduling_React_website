@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# OS_CPU_Scheduling_React_website
+A simple React app analyising CPU Scheduling techniques
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Start Screen
+![Start](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/a3b60a34-0183-4190-8a58-eba1a5fe2775)
 
-## Available Scripts
+### Adding processes in the table
+![Add_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/22855070-824d-4b34-8eef-d1332db2549d)
+![Add_2](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/6df59732-5ddf-4526-ab1b-4972fd4995a6)
+![final_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/963f71c3-7f23-4113-a954-f2c49e7c6ef9)
 
-In the project directory, you can run:
+### After clicking 'Done', we get the analysis
+![Analysis](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/ce9e3c5b-d2f7-4df0-af1d-df1a0d8e96c6)
 
-### `npm start`
+### Another Example (Round-Robin Scheduling)
+![rr_1](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/9a99f35b-bfc0-45c3-a6e7-2492309eddfe)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Adding the entries
+![rr_2](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/728430ca-cea4-47df-aa81-3938cadd709c)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Final Analysis
+![rr_3](https://github.com/Priyanshu120503/OS_CPU_Scheduling_React_website/assets/103837992/8d3f66ba-6940-4da5-a1c4-254a4904b274)
